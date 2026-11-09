@@ -137,4 +137,4 @@ All models use `random_state=42`, so the results are reproducible.
 | [Raghad Alasmari](https://github.com/Raghad0za) | Hierarchical Clustering |
 | [Daniyah Aleid](https://github.com/DAleid) | PCA Clustering |
 | Member 3 | |
-| Member 4 | |
+| [Omar Alshuail](https://github.com/oShuail) | DBSCAN |
