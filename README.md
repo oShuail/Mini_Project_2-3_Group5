@@ -135,6 +135,6 @@ All models use `random_state=42`, so the results are reproducible.
 | Member | Part |
 |---|---|
 | [Raghad Alasmari](https://github.com/Raghad0za) | Hierarchical Clustering |
-| Member 2 | |
+| [Daniyah Aleid](https://github.com/DAleid) | PCA Clustering |
 | Member 3 | |
 | Member 4 | |
